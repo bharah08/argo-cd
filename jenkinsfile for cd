@@ -4,7 +4,7 @@ pipeline {
 environment {
     GIT_REPO_NAME = "argo-cd"
     GIT_USER_NAME = "bharah08"
-    NEW_IMAGE_NAME = "bharath0812/nodejs:5.0"
+    NEW_IMAGE_NAME = "bharath0812/nodejs:6.0"
     
 }
 
